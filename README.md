@@ -5,8 +5,8 @@ Hi 👋, I'm SRINI R
 - 🚀 Ready to explore the latest in tech!
 - 🧠 Mastering the art of problem-solving!
 - 💡 Dive into the world of React, Spring Boot, and beyond! Let's talk tech wonders! 
-_
 
+<hr/>
 <h2>Reach Me Here :) </h2>
 
 <div align="center">
@@ -14,7 +14,7 @@ _
 <a href="https://www.linkedin.com/in/srini-rangaraj-416590240/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-_
+<hr/>
 
 <h2>My Tech Toolkit !</h2>
 
@@ -51,7 +51,7 @@ _
   </div>
 </div>
 
-_
+<hr/>
 
 <div align="center">
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=rsrini03&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&disable_animations=true" height="200" />
