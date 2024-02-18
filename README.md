@@ -58,7 +58,7 @@ Hi 👋, I'm SRINI R
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsrini03&langs_count=10&layout=compact&theme=radical&hide_border=true&disable_animations=true" height="200" />
 </div>
 
-_
+<hr/>
 
 <div align="center">
   <img alt="Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=rsrini03&column=5&theme=radical&no-frame=true" />
